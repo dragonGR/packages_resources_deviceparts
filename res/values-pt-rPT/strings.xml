@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014-2017 The OmniROM Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+  <string name="device_title">Definições adicionais</string>
+  <string name="device_summary">Ajustar definições de dispositivo</string>
+  <string name="advanced_settings">Configurações Avançadas</string>
+  <string name="wake_entry">Despertar</string>
+  <string name="single_tap_title">Um toque</string>
+  <string name="single_tap_summary">Acordar a tela com um toque único no modo AOD</string>
+  <string name="double_tap_title">Dê dois toques para ligar o ecrã</string>
+  <string name="double_tap_summary">Acordar a tela com um toque duplo</string>
+  <string name="sweep_to_wake_title">Deslize para acordar</string>
+  <string name="sweep_to_wake_summary">Acorde o seu telefone varrendo na parte inferior da tela da esquerda para a direita</string>
+  <string name="category_audio">Áudio</string>
+  <string name="sound_title">Realce de cor</string>
+  <string name="sound_summary">Configurar a saída de áudio com base no conteúdo multimídia.</string>
+  <string name="enable_sound_title">Ativar/desativar o sintonizador de som</string>
+  <string name="enable_sound_summary">Alternando OBRIGATÓRIOS uma reinicialização para que tenha efeito!</string>
+  <string name="enable_sound_info">Nota: Com o sintonizador de som ativado, outros efeitos de EQ como MusicFX devem ser desativados.</string>
+  <string name="category_backlight_dimmer">Tempo limite da luz de fundo</string>
+  <string name="backlight_dimmer_title">Tempo limite da luz de fundo</string>
+  <string name="backlight_dimmer_summary">Brilho da visualização de ambiente</string>
+  <string name="backlight_dimmer_rev_summary">Brilho da visualização de ambiente</string>
+  <string name="category_power">Power</string>
+  <string name="fastcharge_summary">Carregamento rápido de até 900mA</string>
+  <string name="fastcharge_title">Rapidamente</string>
+  <string name="screen_gestures_panel_title">Gestos</string>
+  <string name="category_gestures_title">Gestos do dispositivo</string>
+  <string name="category_gestures_summary">Configurar ações dos gestos</string>
+  <string name="offscreen_gesture_title">Gestos do ecrã apagado</string>
+  <string name="off_screen_gesture_feedback_title_head">Feedback tátil</string>
+  <string name="off_screen_gesture_feedback_summary_head">Activar feedback tátil para gestos</string>
+  <string name="music_play_gesture_title_head">Controlo da música</string>
+  <string name="music_play_gesture_summary_head">Desenhar || com dois dedos para reproduzir ou pausar a música. Desenhar &lt; ou &gt; para a faixa anterior ou seguinte</string>
+  <string name="category_down_swipe_gesture">Deslizar para baixo</string>
+  <string name="category_up_swipe_gesture">Deslize para cima</string>
+  <string name="category_left_swipe_gesture">Deslizar para a esquerda</string>
+  <string name="category_right_swipe_gesture">Deslizar à direita</string>
+  <string name="category_double_swipe_gesture">|| gestos</string>
+  <string name="category_up_arrow_gesture">|| gestos</string>
+  <string name="category_left_arrow_gesture">Gesto &lt;</string>
+  <string name="category_right_arrow_gesture">Gesto &gt;</string>
+  <string name="category_circle_gesture">|| gestos</string>
+  <string name="category_down_arrow_gesture">|| gestos</string>
+  <string name="category_m_gesture">|| gestos</string>
+  <string name="category_s_gesture">|| gestos</string>
+  <string name="category_w_gesture">|| gestos</string>
+  <string name="disabled_entry">Desativado</string>
+  <string name="camera_entry">Câmara</string>
+  <string name="torch_entry">Lanterna</string>
+  <string name="music_play_entry">reproduzir/pausar a música</string>
+  <string name="music_prev_entry">Faixa anterior</string>
+  <string name="music_next_entry">Próxima faixa</string>
+  <string name="ambient_display_entry">Doze</string>
+  <string name="choose_app">Escolher ação</string>
+  <string name="not_ready_summary">Resolução...</string>
+  <string name="resolve_failed_summary">A resolução falhou.</string>
+  <string name="category_audiogains">Ganho de áudio</string>
+  <string name="headphone_gain_title">Auricular</string>
+  <string name="headphone_gain_summary">Pausar música para fones de ouvido</string>
+  <string name="earpiece_gain_title">Telemóvel</string>
+  <string name="earpiece_gain_summary">Pausar música para fones de ouvido</string>
+  <string name="mic_gain_title">Microfone</string>
+  <string name="mic_gain_summary">Pausar música para fones de ouvido</string>
+  <string name="speaker_gain_title">Colunas</string>
+  <string name="speaker_gain_summary">Ajustar para alto-falantes</string>
+  <string name="fp_gesture_title">Gestos no sensor de impressão digital</string>
+  <string name="fp_gesture_title_summary">Execute ações rápidas deslizando sobre o scanner de fp</string>
+  <string name="category_fp_down_swipe_gesture">Deslizar para baixo no sensor de impressão digital</string>
+  <string name="category_fp_up_swipe_gesture">Deslizar para cima no sensor de impressão digital</string>
+  <string name="category_fp_right_swipe_gesture">Deslizar para a direita no sensor de impressão digital</string>
+  <string name="category_fp_left_swipe_gesture">Deslizar para a esquerda no sensor de impressão digital</string>
+  <string name="category_fp_long_press_gesture">Manter premido no sensor de impressão digital</string>
+  <string name="fp_swipe_down_switch_title_head">Deslizar para baixo com a impressão digital AOSP</string>
+  <string name="fp_swipe_down_switch_summary_head">Liga/desliga o gesto padrão de notificações deslizar para baixo</string>
+  <string name="category_vibrator">Vibração</string>
+  <string name="vib_test">Teste</string>
+  <string name="vib_strength_info">Nota:\n\nPor favor, ative a vibração primeiro nas Configurações -&gt; Acessibilidade -&gt; Vibração completamente para obter um feedback tátil sobre a alteração da força.</string>
+  <string name="vib_strength_title">Sistema</string>
+  <string name="vib_strength_summary">Definir força de vibração</string>
+  <string name="vib_call_strength_title">Em chamada</string>
+  <string name="vib_call_strength_summary">Definir intensidade para eventos durante a chamada separadamente</string>
+  <string name="vib_notif_strength_title">Notificações</string>
+  <string name="vib_notif_strength_summary">Definir intensidade para eventos durante a chamada separadamente</string>
+  <string name="category_slider">Botões adicionais</string>
+  <string name="slider_mode_title">Imagem deslizante</string>
+  <string name="slider_mode_title_top">Em cima</string>
+  <string name="slider_mode_title_center">Posição centro</string>
+  <string name="slider_mode_title_bottom">Em baixo</string>
+  <string name="slider_mode_alarm">Apenas alarmes</string>
+  <string name="slider_mode_off">Toque</string>
+  <string name="slider_mode_priority">Apenas prioridade</string>
+  <string name="slider_mode_silent">Silêncio</string>
+  <string name="slider_mode_vibrate">Vibrar</string>
+  <string name="slider_mode_zen">Não incomodar</string>
+  <string name="slider_mode_flashlight">Lanterna</string>
+  <string name="graphics_title">Ecrã</string>
+  <string name="dcd_mode_title">DC-Dimming</string>
+  <string name="dcd_mode_summary">Reduzir oscilação substrindo a tela</string>
+  <string name="hbm_mode_title">Modo de brilho alto</string>
+  <string name="hbm_mode_summary">Ativar o brilho máximo para o ambiente brilhante (Impacta a vida da bateria!)</string>
+  <string name="panel_category_title">Modo de Cor</string>
+  <string name="panel_category_summary">Modos de exibição para correção de cor</string>
+  <string name="panel_mode_info">Desativar os modos de cor requer uma reinicialização.</string>
+  <string name="off_mode_title">Desligado</string>
+  <string name="srgb_mode_title">modo sRGB</string>
+  <string name="dci_mode_title">Modo DCI-P3</string>
+  <string name="wide_mode_title">Gamut Amplo de AMOLED</string>
+  <string name="oneplus_mode_title">Modo OnePlus</string>
+  <string name="night_mode_title">Modo noturno</string>
+  <string name="refresh_title">Taxa de atualização do ecrã</string>
+  <string name="refresh_rate_title">Forçar taxa máxima de atualização</string>
+  <string name="refresh_rate_summary">Escolha entre taxas de atualização de pico diferentes</string>
+  <string name="refresh_rate_warning">Usar a taxa máxima de atualização forçada terá um impacto significativo na vida da bateria</string>
+  <string name="auto_refresh_rate_title">Taxa de atualização automática</string>
+  <string name="auto_refresh_rate_summary">Deixar que os apps decidam qual taxa de atualização usar</string>
+  <string name="tile_hbm_mode">Modo de brilho alto</string>
+  <string name="tile_dcd_mode">Modo CC Dimming</string>
+  <string name="tile_panel_mode">Modo de Cor</string>
+  <string name="tile_refresh_rate">Taxa de atualização do ecrã</string>
+  <string name="category_doze">Visualização de ambiente</string>
+  <string name="doze_category_title">Notificações</string>
+  <string name="doze_category_summary">Configurar quando acordar a tela para notificações</string>
+  <string name="buttons_title">Botões</string>
+  <string name="swap_back_recents_title">Trocar as teclas \"voltar\" e \"recentes\"</string>
+</resources>

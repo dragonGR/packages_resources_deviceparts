@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014-2017 The OmniROM Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+  <string name="device_title">추가 장치 설정</string>
+  <string name="device_summary">장치 설정 조정</string>
+  <string name="advanced_settings">고급 설정</string>
+  <string name="wake_entry">화면 켜짐</string>
+  <string name="single_tap_title">한 번 눌렀을 때</string>
+  <string name="single_tap_summary">AOD 모드에서 단일 탭으로 디스플레이 깨우기</string>
+  <string name="double_tap_title">깨우려면 두 번 탭하세요.</string>
+  <string name="double_tap_summary">두 번 탭하여 디스플레이 깨우기</string>
+  <string name="sweep_to_wake_title">스와잎하여 깨우기</string>
+  <string name="sweep_to_wake_summary">디스플레이 하단을 왼쪽에서 오른쪽으로 쓸어 넘겨 휴대 전화를 깨 웁니다.</string>
+  <string name="category_audio">오디오</string>
+  <string name="sound_title">사운드 향상</string>
+  <string name="sound_summary">미디어 컨텐츠를 기반으로 오디오 출력을 구성하십시오.</string>
+  <string name="enable_sound_title">사운드 튜너 활성화 / 비활성화</string>
+  <string name="enable_sound_summary">전환하려면 재부팅이 필요합니다!</string>
+  <string name="enable_sound_info">참고 : 사운드 튜너를 활성화하면 MusicFX와 같은 다른 EQ 효과를 비활성화해야합니다.</string>
+  <string name="category_backlight_dimmer">백라이트 고정</string>
+  <string name="backlight_dimmer_title">백라이트 고정</string>
+  <string name="backlight_dimmer_summary">최소 디스플레이 밝기 설정</string>
+  <string name="backlight_dimmer_rev_summary">최대 디스플레이 밝기 설정</string>
+  <string name="category_power">전원</string>
+  <string name="fastcharge_summary">최대 900mA의 고속 충전</string>
+  <string name="fastcharge_title">고속 충전</string>
+  <string name="screen_gestures_panel_title">제스쳐</string>
+  <string name="category_gestures_title">기기 제스처</string>
+  <string name="category_gestures_summary">제스처 동작 환경설정</string>
+  <string name="offscreen_gesture_title">잠금 화면 제스처</string>
+  <string name="off_screen_gesture_feedback_title_head">터치 시 진동</string>
+  <string name="off_screen_gesture_feedback_summary_head">제스처에 햅틱 피드백 사용</string>
+  <string name="music_play_gesture_title_head">음악 컨트롤</string>
+  <string name="music_play_gesture_summary_head">음악을 재생 또는 일시 정지하려면 두 손가락으로 ||를 그리세요. 이전 트랙을 재생하려면 &lt;를, 다음 트랙을 재생하려면 &gt;를 그리세요.</string>
+  <string name="category_down_swipe_gesture">쓸어 내리기</string>
+  <string name="category_up_swipe_gesture">쓸어 올리기</string>
+  <string name="category_left_swipe_gesture">왼쪽으로 밀기</string>
+  <string name="category_right_swipe_gesture">오른쪽으로 밀기</string>
+  <string name="category_double_swipe_gesture">|| 제스쳐</string>
+  <string name="category_up_arrow_gesture">A 제스쳐</string>
+  <string name="category_left_arrow_gesture">&lt; 제스쳐</string>
+  <string name="category_right_arrow_gesture">&gt; 제스쳐</string>
+  <string name="category_circle_gesture">ㅇ 제스쳐</string>
+  <string name="category_down_arrow_gesture">V 제스쳐</string>
+  <string name="category_m_gesture">M 제스쳐</string>
+  <string name="category_s_gesture">S 제스쳐</string>
+  <string name="category_w_gesture">W 제스쳐</string>
+  <string name="disabled_entry">비활성화됨</string>
+  <string name="camera_entry">카메라</string>
+  <string name="torch_entry">손전등</string>
+  <string name="music_play_entry">음악 재생/일시 정지</string>
+  <string name="music_prev_entry">이전 트랙</string>
+  <string name="music_next_entry">다음 트랙</string>
+  <string name="ambient_display_entry">절전 모드</string>
+  <string name="choose_app">앱 / 액션</string>
+  <string name="not_ready_summary">해결 중...</string>
+  <string name="resolve_failed_summary">앱 해결 실패</string>
+  <string name="category_audiogains">오디오 게인</string>
+  <string name="headphone_gain_title">헤드폰</string>
+  <string name="headphone_gain_summary">헤드폰 조정</string>
+  <string name="earpiece_gain_title">이어피스</string>
+  <string name="earpiece_gain_summary">이어 피스 조정</string>
+  <string name="mic_gain_title">마이크로폰</string>
+  <string name="mic_gain_summary">마이크 조정</string>
+  <string name="speaker_gain_title">스피커</string>
+  <string name="speaker_gain_summary">스피커 조정</string>
+  <string name="fp_gesture_title">지문 인식 제스처</string>
+  <string name="fp_gesture_title_summary">지문인식 스캐너를 스와이프하여 빠른 작업 수행</string>
+  <string name="category_fp_down_swipe_gesture">지문 아래로 밀기</string>
+  <string name="category_fp_up_swipe_gesture">지문 위로 밀기</string>
+  <string name="category_fp_right_swipe_gesture">지문 오른쪽으로 밀기</string>
+  <string name="category_fp_left_swipe_gesture">지문 왼쪽으로 밀기</string>
+  <string name="category_fp_long_press_gesture">지문 길게 누르기</string>
+  <string name="fp_swipe_down_switch_title_head">AOSP 지문인식  다운 제스처</string>
+  <string name="fp_swipe_down_switch_summary_head">기본알림  켜기 / 끄기 제스쳐</string>
+  <string name="category_vibrator">진동</string>
+  <string name="vib_test">시험</string>
+  <string name="vib_strength_info">참고 : \n\n 강도 변경에 대한 햅틱 피드백을 얻으려면 설정-&gt; 접근성-&gt; 진동에서 진동을 먼저 활성화하십시오.</string>
+  <string name="vib_strength_title">시스템</string>
+  <string name="vib_strength_summary">진동의 세기를 설정</string>
+  <string name="vib_call_strength_title">통화 중</string>
+  <string name="vib_call_strength_summary">통화 중 이벤트의 강도를 별도로 정의</string>
+  <string name="vib_notif_strength_title">알림</string>
+  <string name="vib_notif_strength_summary">알림의 강도를 별도로 정의</string>
+  <string name="category_slider">알림 슬라이드</string>
+  <string name="slider_mode_title">슬라이더 모드</string>
+  <string name="slider_mode_title_top">위쪽</string>
+  <string name="slider_mode_title_center">중앙 위치</string>
+  <string name="slider_mode_title_bottom">아래 위치</string>
+  <string name="slider_mode_alarm">알람만</string>
+  <string name="slider_mode_off">벨소리</string>
+  <string name="slider_mode_priority">중요 알림만</string>
+  <string name="slider_mode_silent">무음</string>
+  <string name="slider_mode_vibrate">진동</string>
+  <string name="slider_mode_zen">방해 금지</string>
+  <string name="slider_mode_flashlight">손전등</string>
+  <string name="graphics_title">디스플레이</string>
+  <string name="dcd_mode_title">DC 디밍</string>
+  <string name="dcd_mode_summary">디스플레이 저전압으로 깜박임 감소</string>
+  <string name="hbm_mode_title">최대 밝기 모드</string>
+  <string name="hbm_mode_summary">밝은 환경에서 최대 밝기 사용 (배터리 수명에 영향을 미칩니다!)</string>
+  <string name="panel_category_title">컬러 모드</string>
+  <string name="panel_category_summary">색상 보정을위한 디스플레이 모드</string>
+  <string name="panel_mode_info">색상 모드를 비활성화하려면 재부팅해야합니다.</string>
+  <string name="off_mode_title">끄기</string>
+  <string name="srgb_mode_title">sRGB 모드</string>
+  <string name="dci_mode_title">DCI-P3 모드</string>
+  <string name="wide_mode_title">AMOLED 넓은 색 영역</string>
+  <string name="oneplus_mode_title">OnePlus 모드</string>
+  <string name="night_mode_title">야간모드</string>
+  <string name="refresh_title">화면 새로 고침</string>
+  <string name="refresh_rate_title">Force maximum refresh rate</string>
+  <string name="refresh_rate_summary">다른 최고 재생 빈도 중에서 선택</string>
+  <string name="refresh_rate_warning">강제 최대 재생 빈도를 사용하면 배터리 수명에 큰 영향을 미칩니다</string>
+  <string name="auto_refresh_rate_title">자동 새로 고침 모드</string>
+  <string name="auto_refresh_rate_summary">앱이 사용할 새로 고침 빈도를 결정하도록 허용합니다</string>
+  <string name="tile_hbm_mode">최대 밝기 모드</string>
+  <string name="tile_dcd_mode">DC 디밍 모드</string>
+  <string name="tile_panel_mode">컬러 모드</string>
+  <string name="tile_refresh_rate">화면 새로 고침 빈도</string>
+  <string name="category_doze">앰비언트 디스플레이</string>
+  <string name="doze_category_title">알림</string>
+  <string name="doze_category_summary">알림 화면 깨우기 시간 구성</string>
+  <string name="buttons_title">버튼</string>
+  <string name="swap_back_recents_title">뒤로 및 최근 통화 버튼</string>
+</resources>

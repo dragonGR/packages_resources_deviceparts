@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014-2017 The OmniROM Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+  <string name="device_title">その他の端末設定</string>
+  <string name="device_summary">端末特有の設定を調節する</string>
+  <string name="advanced_settings">高度な設定</string>
+  <string name="wake_entry">スリープ解除</string>
+  <string name="single_tap_title">シングルタップ</string>
+  <string name="single_tap_summary">Allway on Display モード時にシングルタップで画面を復帰する</string>
+  <string name="double_tap_title">ダブルタップでスリープ解除</string>
+  <string name="double_tap_summary">画面をダブルタップしてスリープ解除する</string>
+  <string name="sweep_to_wake_title">スワイプでスリープ解除</string>
+  <string name="sweep_to_wake_summary">画面下部の左右から上にスワイプして端末をスリープ解除する</string>
+  <string name="category_audio">オーディオ</string>
+  <string name="sound_title">サウンド拡張</string>
+  <string name="sound_summary">メディアコンテンツに基づく音声出力を編集する</string>
+  <string name="enable_sound_title">サウンドチューナーの有無を切り替える</string>
+  <string name="enable_sound_summary">変更を適用するには再起動が必要です</string>
+  <string name="enable_sound_info">注意: サウンドチューナーを有効にすると、MusicFX のような他のイコライザーは無効になります。</string>
+  <string name="category_backlight_dimmer">バックライト調整</string>
+  <string name="backlight_dimmer_title">バックライト調整</string>
+  <string name="backlight_dimmer_summary">画面の明るさの最低レベルを設定する</string>
+  <string name="backlight_dimmer_rev_summary">画面の明るさの最高レベルを設定する</string>
+  <string name="category_power">電源</string>
+  <string name="fastcharge_summary">最大900mAの急速充電</string>
+  <string name="fastcharge_title">急速充電</string>
+  <string name="screen_gestures_panel_title">ジェスチャー</string>
+  <string name="category_gestures_title">端末ジェスチャー</string>
+  <string name="category_gestures_summary">ジェスチャーアクションを編集する</string>
+  <string name="offscreen_gesture_title">画面消灯時のジェスチャー</string>
+  <string name="off_screen_gesture_feedback_title_head">振動フィードバック</string>
+  <string name="off_screen_gesture_feedback_summary_head">ジェスチャーで振動フィードバックを有効にする</string>
+  <string name="music_play_gesture_title_head">音楽の制御</string>
+  <string name="music_play_gesture_summary_head">音楽を再生または一時停止するには || を2本の指で描きます。 前後のトラックに移動するには &lt; または &gt; を描きます</string>
+  <string name="category_down_swipe_gesture">下スワイプ</string>
+  <string name="category_up_swipe_gesture">上スワイプ</string>
+  <string name="category_left_swipe_gesture">左スワイプ</string>
+  <string name="category_right_swipe_gesture">右スワイプ</string>
+  <string name="category_double_swipe_gesture">|| ジェスチャー</string>
+  <string name="category_up_arrow_gesture">A ジェスチャー</string>
+  <string name="category_left_arrow_gesture">&lt; ジェスチャー</string>
+  <string name="category_right_arrow_gesture">&gt; ジェスチャー</string>
+  <string name="category_circle_gesture">O ジェスチャー</string>
+  <string name="category_down_arrow_gesture">V ジェスチャー</string>
+  <string name="category_m_gesture">M ジェスチャー</string>
+  <string name="category_s_gesture">S ジェスチャー</string>
+  <string name="category_w_gesture">W ジェスチャー</string>
+  <string name="disabled_entry">無効</string>
+  <string name="camera_entry">カメラ</string>
+  <string name="torch_entry">フラッシュライト</string>
+  <string name="music_play_entry">音楽の再生/一時停止</string>
+  <string name="music_prev_entry">前の曲</string>
+  <string name="music_next_entry">次の曲</string>
+  <string name="ambient_display_entry">Doze</string>
+  <string name="choose_app">アプリ/アクションを選択</string>
+  <string name="not_ready_summary">解決中...</string>
+  <string name="resolve_failed_summary">アプリの解決に失敗しました</string>
+  <string name="category_audiogains">オーディオのゲイン</string>
+  <string name="headphone_gain_title">ヘッドフォン</string>
+  <string name="headphone_gain_summary">ヘッドフォンを調節する</string>
+  <string name="earpiece_gain_title">イヤホン</string>
+  <string name="earpiece_gain_summary">イヤホンを調節する</string>
+  <string name="mic_gain_title">マイク</string>
+  <string name="mic_gain_summary">マイクを調節する</string>
+  <string name="speaker_gain_title">スピーカー</string>
+  <string name="speaker_gain_summary">スピーカーを調節する</string>
+  <string name="fp_gesture_title">指紋ジェスチャー</string>
+  <string name="fp_gesture_title_summary">指紋センサーのスワイプによるクイックアクションを構成する</string>
+  <string name="category_fp_down_swipe_gesture">指紋センサーを下スワイプ</string>
+  <string name="category_fp_up_swipe_gesture">指紋センサーを上スワイプ</string>
+  <string name="category_fp_right_swipe_gesture">指紋センサーを右スワイプ</string>
+  <string name="category_fp_left_swipe_gesture">指紋センサーを左スワイプ</string>
+  <string name="category_fp_long_press_gesture">指紋センサーを長押し</string>
+  <string name="fp_swipe_down_switch_title_head">AOSP の指紋センサー下スワイプジェスチャー</string>
+  <string name="fp_swipe_down_switch_summary_head">既定の通知下スワイプジェスチャーを ON/OFFする</string>
+  <string name="category_vibrator">振動</string>
+  <string name="vib_test">テスト</string>
+  <string name="vib_strength_info">注意: \n\n最初に[設定]&gt;[アクセシビリティ]&gt;[振動]を有効にして、強度の変更に関する振動フィードバックを取得して下さい。</string>
+  <string name="vib_strength_title">システム</string>
+  <string name="vib_strength_summary">一般の振動の強さを決める</string>
+  <string name="vib_call_strength_title">着信</string>
+  <string name="vib_call_strength_summary">個別に着信時の振動の強さを決定する</string>
+  <string name="vib_notif_strength_title">通知</string>
+  <string name="vib_notif_strength_summary">個別に通知時の振動の強さを決定する</string>
+  <string name="category_slider">Alert Slider</string>
+  <string name="slider_mode_title">Slider モード</string>
+  <string name="slider_mode_title_top">上部</string>
+  <string name="slider_mode_title_center">中央</string>
+  <string name="slider_mode_title_bottom">下部</string>
+  <string name="slider_mode_alarm">アラームのみ</string>
+  <string name="slider_mode_off">着信</string>
+  <string name="slider_mode_priority">優先通知のみ</string>
+  <string name="slider_mode_silent">サイレント</string>
+  <string name="slider_mode_vibrate">振動</string>
+  <string name="slider_mode_zen">マナーモード</string>
+  <string name="slider_mode_flashlight">フラッシュライト</string>
+  <string name="graphics_title">ディスプレイ</string>
+  <string name="dcd_mode_title">DC 調光</string>
+  <string name="dcd_mode_summary">ディスプレイの電圧を下げることでちらつきを軽減する</string>
+  <string name="hbm_mode_title">高輝度モード</string>
+  <string name="hbm_mode_summary">明るい環境で最大の明るさを有効にする (バッテリーの寿命に影響します!)</string>
+  <string name="panel_category_title">色モード</string>
+  <string name="panel_category_summary">色補正のディスプレイモード</string>
+  <string name="panel_mode_info">色モードを無効にするには再起動が必要です</string>
+  <string name="off_mode_title">OFF</string>
+  <string name="srgb_mode_title">sRGB モード</string>
+  <string name="dci_mode_title">DCI-P3 モード</string>
+  <string name="wide_mode_title">AMOLED ワイドカラーガンマ</string>
+  <string name="oneplus_mode_title">OnePlus モード</string>
+  <string name="night_mode_title">夜間モード</string>
+  <string name="refresh_title">画面リフレッシュ</string>
+  <string name="refresh_rate_title">強制最大リフレッシュレート</string>
+  <string name="refresh_rate_summary">異なる最大リフレッシュレートから選択する</string>
+  <string name="refresh_rate_warning">強制最大リフレッシュレートを使用するとバッテリ寿命に大きな影響を与えます</string>
+  <string name="auto_refresh_rate_title">自動リフレッシュモード</string>
+  <string name="auto_refresh_rate_summary">使用するリフレッシュレートをアプリに決定させる</string>
+  <string name="tile_hbm_mode">高輝度モード</string>
+  <string name="tile_dcd_mode">DC 調光モード</string>
+  <string name="tile_panel_mode">色モード</string>
+  <string name="tile_refresh_rate">画面リフレッシュレート</string>
+  <string name="category_doze">アンビエント表示</string>
+  <string name="doze_category_title">通知</string>
+  <string name="doze_category_summary">いつ通知で画面を点灯するか編集する</string>
+  <string name="buttons_title">ボタン</string>
+  <string name="swap_back_recents_title">戻るボタンとアプリ履歴ボタンを入れ替える</string>
+</resources>
